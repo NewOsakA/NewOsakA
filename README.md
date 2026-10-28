@@ -4,4 +4,8 @@ I build games and web applications, and explore applied machine learning. My bac
 
 ## Languages and tools
 
-![C#, Unity, Python, JavaScript, HTML, CSS, Django, Node.js, Express, PostgreSQL, SQLite, PyTorch, scikit-learn, Git, C, C++, Apple, AWS, Bootstrap, Docker, Supabase, Tailwind CSS, and TypeScript](https://skillicons.dev/icons?i=cs,unity,py,js,html,css,django,nodejs,express,postgres,sqlite,pytorch,sklearn,git,c,cpp,apple,aws,bootstrap,docker,supabase,tailwind,ts&theme=dark&perline=12)
+![Languages: C, C++, C#, Python, JavaScript, TypeScript, HTML, and CSS](https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,html,css&theme=dark&perline=8)
+
+![Frameworks and libraries: Unity, Django, Node.js, Express, Bootstrap, Tailwind CSS, PyTorch, and scikit-learn](https://skillicons.dev/icons?i=unity,django,nodejs,express,bootstrap,tailwind,pytorch,sklearn&theme=dark&perline=8)
+
+![Databases, tools, and platforms: PostgreSQL, SQLite, Supabase, Git, Docker, AWS, and Apple](https://skillicons.dev/icons?i=postgres,sqlite,supabase,git,docker,aws,apple&theme=dark&perline=8)
